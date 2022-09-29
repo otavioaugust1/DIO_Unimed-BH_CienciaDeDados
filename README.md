@@ -6,27 +6,27 @@
 
 <h2><strong>Desafios de projeto:</strong></h2>
 <ul>
-  <li><a href="/Desafio/">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
-  <li><a href="/Desafio/">
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
+  <li><a href="">
 Análise de dados com Python e Pandas &#x2705;</a></li>
-  <li><a href="/Desafio/">
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas">
 Descomplicando a criação de pacotes de processamento de imagens em Python &#x274C;</a></li>
-  <li><a href="/Desafio/">
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil">
 Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil &#x2705;</a></li>
-  <li><a href="/Desafio/">  </a></li>
-  <li><a href="/Desafio/">  </a></li>
-  <li><a href="/Desafio/">  </a></li>
-  <li><a href="/Desafio/">  </a></li>
+  <li><a href="">  </a></li>
+  <li><a href="">  </a></li>
+  <li><a href="">  </a></li>
+  <li><a href="">  </a></li>
 </ul>
 
 <h2><strong>Desafios de Codigo:</strong></h2>
 <ul>
-  <li><a href="">Desafios Iniciais Py- 1/3 - As Duas Torres &#x2705;</a></li>
-  <li><a href="/Desafio/">Desafios Iniciais Py- 2/3 - Cachorros-Quentes &#x2705;</a></li>
-  <li><a href="/Desafio/">Desafios Iniciais Py- 3/3 - Cálculo de viagem &#x2705;</a></li>
-  <li><a href="/Desafio/">Desafios Intermediários Py - 1/3 - Alfabeto &#x2705;</a></li>
-  <li><a href="/Desafio/">Desafios Intermediários Py - 2/3 - Papagaio Poliglota &#x2705;</a></li>
-  <li><a href="/Desafio/">Desafios Intermediários Py - 3/3 - Aumento Salarial
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-duas_torres">Desafios Iniciais Py- 1/3 - As Duas Torres &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Cachorros-Quentes">Desafios Iniciais Py- 2/3 - Cachorros-Quentes &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Calculo_de_viagem">Desafios Iniciais Py- 3/3 - Cálculo de viagem &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Alfabeto">Desafios Intermediários Py - 1/3 - Alfabeto &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Aumento_Salarial">Desafios Intermediários Py - 2/3 - Papagaio Poliglota &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Aumento_Salarial">Desafios Intermediários Py - 3/3 - Aumento Salarial
  &#x2705;</a></li>
 </ul>
 
