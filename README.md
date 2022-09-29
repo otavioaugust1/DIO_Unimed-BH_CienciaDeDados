@@ -7,10 +7,10 @@
 <h2><strong>Desafios de projeto: </strong><progress value="35" max="100"></progress> 35%</h2>
 <ul>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
-  <li><a href="">
-Análise de dados com Python e Pandas &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas">
-Descomplicando a criação de pacotes de processamento de imagens em Python &#x2757;</a></li>
+Análise de dados com Python e Pandas &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Image_processing_package">
+Descomplicando a criação de pacotes de processamento de imagens em Python &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil">
 Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil &#x2705;</a></li>
   <li><a href="">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x274C;</a></li>
@@ -23,7 +23,7 @@ Boas práticas com DynamoDB &#x274C;</a></li>
   <li><a href="">
 Explorando Dados Demográficos com Serviços de Big Data na AWS  &#x274C;</a></li>
   <li><a href="">
-Treinamento de Redes Neurais com Transfer Learning  &#x274C;</a></li>
+Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
 </ul>
 
 <h2><strong>Desafios de Codigo:  </strong><progress value="100" max="100"></progress> 100%</h2>
