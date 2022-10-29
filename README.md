@@ -18,8 +18,8 @@ Criando modelos com Python e Machine Learning para prever a evolução do COVID-
 Construindo um Esquema Conceitual para Banco De dados &#x274C;</a></li>
   <li><a href="">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x274C;</a></li>
   <li><a href="">Construa um Projeto Lógico de Banco de Dados do Zero  &#x274C;</a></li>
-  <li><a href="">
-Boas práticas com DynamoDB &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB">
+Boas práticas com DynamoDB &#x2705;</a></li>
   <li><a href="">
 Explorando Dados Demográficos com Serviços de Big Data na AWS  &#x274C;</a></li>
   <li><a href="">
@@ -37,16 +37,16 @@ Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
  &#x2705;</a></li>
 </ul><br>
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="60" max="100"></progress> 60%</h2>
+<h2><strong>Progresso das Atividades:  </strong><progress value="80" max="100"></progress> 80%</h2>
 <ul>
   <li>Prepare-se Para a Jornada (Onboarding)</a></li>
     <ul><em>Atividades: 8/8</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Python para Cientistas de Dados</a></li>
     <ul><em>Atividades: 21/21</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Bancos de Dados SQL e NoSQL </a></li>
-    <ul><em>Atividades: 1/17</em>  <progress value="6" max="100"></progress> 6%</ul><br>
+    <ul><em>Atividades: 10/17</em>  <progress value="60" max="100"></progress> 60%</ul><br>
   <li>Imersão Cloud Computer </a></li>
-    <ul><em>Atividades: 6/6</em> <progress value="0" max="100"></progress> 0%</ul><br>
+    <ul><em>Atividades: 2/6</em> <progress value="30" max="100"></progress> 30%</ul><br>
   <li>Machine Learning </a></li>
     <ul><em>Atividades: 4/5</em> <progress value="80" max="100"></progress> 80%</ul><br>
 </ul><br>
