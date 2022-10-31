@@ -4,7 +4,7 @@
 
  <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p><br>
 
-<h2><strong>Desafios de projeto: </strong><progress value="35" max="100"></progress> 35%</h2>
+<h2><strong>Desafios de projeto: </strong><progress value="85" max="100"></progress> 85%</h2>
 <ul>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas">
@@ -17,7 +17,7 @@ Criando modelos com Python e Machine Learning para prever a evolução do COVID-
   <li><a href="">
 Construindo um Esquema Conceitual para Banco De dados &#x274C;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao_oficina">Construa um Projeto Lógico de Banco de Dados do Zero  &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao_oficina">Construa um Projeto Lógico de Banco de Dados do Zero  &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB">
 Boas práticas com DynamoDB &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Explorando_Dados_Demograficos-BigData-AWS">
