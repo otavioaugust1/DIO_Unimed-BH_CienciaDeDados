@@ -13,15 +13,15 @@ Análise de dados com Python e Pandas &#x2705;</a></li>
 Descomplicando a criação de pacotes de processamento de imagens em Python &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil">
 Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil &#x2705;</a></li>
-  <li><a href="">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x2757;</a></li>
   <li><a href="">
 Construindo um Esquema Conceitual para Banco De dados &#x274C;</a></li>
-  <li><a href="">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x274C;</a></li>
-  <li><a href="">Construa um Projeto Lógico de Banco de Dados do Zero  &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao_oficina">Construa um Projeto Lógico de Banco de Dados do Zero  &#x274C;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB">
 Boas práticas com DynamoDB &#x2705;</a></li>
-  <li><a href="">
-Explorando Dados Demográficos com Serviços de Big Data na AWS  &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Explorando_Dados_Demograficos-BigData-AWS">
+Explorando Dados Demográficos com Serviços de Big Data na AWS &#x2705;</a></li>
   <li><a href="">
 Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
 </ul>
