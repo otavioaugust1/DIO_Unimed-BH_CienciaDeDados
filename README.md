@@ -2,9 +2,18 @@
 
 <h2><strong> bootcamp DIO_Unimed-BH_CienciaDeDados</strong></H2>
 
- <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p><br>
-
-<h2><strong>Desafios de projeto: </strong><progress value="85" max="100"></progress> 85%</h2>
+<table>
+  <tr>
+    <td>
+      <img src="img\unimed-bh_bootcamp.png" width="400px;">
+    </td>
+    <td>
+    <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p>
+    </td>
+  </tr>
+</table>
+ 
+<h2><strong>Desafios de projeto: </strong><progress value="90" max="100"></progress> 90%</h2>
 <ul>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas">
@@ -13,16 +22,16 @@ Análise de dados com Python e Pandas &#x2705;</a></li>
 Descomplicando a criação de pacotes de processamento de imagens em Python &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil">
 Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x2757;</a></li>
-  <li><a href="">
-Construindo um Esquema Conceitual para Banco De dados &#x274C;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x2705;</a></li>
+  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/construcao_oficina">
+Construindo um Esquema Conceitual para Banco De dados &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao_oficina">Construa um Projeto Lógico de Banco de Dados do Zero  &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB">
 Boas práticas com DynamoDB &#x2705;</a></li>
   <li><a href="https://github.com/otavioaugust1/DIO_Explorando_Dados_Demograficos-BigData-AWS">
 Explorando Dados Demográficos com Serviços de Big Data na AWS &#x2705;</a></li>
-  <li><a href="">
+  <li><a href="https://github.com/otavioaugust1/DIO_Treinamento_Transfer_Learning_em_Python">
 Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
 </ul>
 
@@ -37,19 +46,20 @@ Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
  &#x2705;</a></li>
 </ul><br>
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="80" max="100"></progress> 80%</h2>
+<h2><strong>Progresso das Atividades:  </strong><progress value="95" max="100"></progress> 95%</h2>
 <ul>
   <li>Prepare-se Para a Jornada (Onboarding)</a></li>
     <ul><em>Atividades: 8/8</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Python para Cientistas de Dados</a></li>
     <ul><em>Atividades: 21/21</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Bancos de Dados SQL e NoSQL </a></li>
-    <ul><em>Atividades: 10/17</em>  <progress value="60" max="100"></progress> 60%</ul><br>
+    <ul><em>Atividades: 17/17</em>  <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Imersão Cloud Computer </a></li>
-    <ul><em>Atividades: 2/6</em> <progress value="30" max="100"></progress> 30%</ul><br>
+    <ul><em>Atividades: 4/6</em> <progress value="65" max="100"></progress> 65%</ul><br>
   <li>Machine Learning </a></li>
     <ul><em>Atividades: 4/5</em> <progress value="80" max="100"></progress> 80%</ul><br>
 </ul><br>
+
 
 
 <h3 align="center">Autor</h3>
