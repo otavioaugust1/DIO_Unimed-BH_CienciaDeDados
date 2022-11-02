@@ -55,9 +55,9 @@ Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
   <li>Bancos de Dados SQL e NoSQL </a></li>
     <ul><em>Atividades: 17/17</em>  <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Imersão Cloud Computer </a></li>
-    <ul><em>Atividades: 4/6</em> <progress value="65" max="100"></progress> 65%</ul><br>
+    <ul><em>Atividades: 6/6</em> <progress value="100" max="100"></progress> 100%</ul><br>
   <li>Machine Learning </a></li>
-    <ul><em>Atividades: 4/5</em> <progress value="80" max="100"></progress> 80%</ul><br>
+    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
 </ul><br>
 
 
