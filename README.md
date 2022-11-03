@@ -8,7 +8,7 @@
       <img src="img\unimed-bh_bootcamp.png" width="400px;">
     </td>
     <td>
-    <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p>
+      <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p>
     </td>
   </tr>
 </table>
@@ -62,14 +62,17 @@ Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
 
 
 
-<h3 align="center">Autor</h3>
+<h2 align="left"><strong>Autor</strong></h2>
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/otavioaugust1">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45877609?s=96&v=4" width="100px;" alt=""/><br/><sub><b>Otavio Augusto</b></sub>
-      </a> <br/>
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45877609?s=96&v=4" width="200px;" alt=""/><br/><sub><b>Otavio Augusto</b></sub></a> <br/>
       <a href="https://github.com/otavioaugust1" title="Otavio Augusto"></a>
     </td>
+    <td>
+        Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário Estácio Brasília (2022). Graduado em Administração pela Organização    Guaratinguetá de Ensino (2007). Pós-graduado em Sistema de Apoio ao Processo Seletivo: Regulação em Saúde no SUS - REG pelo Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, IEP/HSL (2017), Pós-graduado em Micropolítica da Gestão e Trabalho em Saúde pela Universidade Federal Fluminense, UFF (2018) e atuando há 14 anos na área de gestão a saúde sendo 12 anos na Regulação, Faturamento, Planejamento, Controle e Avaliação em Saúde, atua como Consultor Técnico no Departamento de Regulação Avaliação e Controle - DRAC/SAS/MS
+    </td>
+  </tr>    
 </table>
