@@ -1,78 +1,118 @@
-<h1 align="center"> Repositório criado para adicionar os meus desafios da plataforma da <a href="https://www.dio.me/">DIO.ME</a></h1><br>
+# Desafios DIO - Bootcamp Unimed-BH Ciência de Dados
 
-<h2><strong> bootcamp DIO_Unimed-BH_CienciaDeDados</strong></H2>
+<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="img\unimed-bh_bootcamp.png" width="400px;">
-    </td>
-    <td>
-      <p> O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.</p>
-    </td>
-  </tr>
-</table>
- 
-<h2><strong>Desafios de projeto: </strong><progress value="90" max="100"></progress> 90%</h2>
-<ul>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas">
-Análise de dados com Python e Pandas &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Image_processing_package">
-Descomplicando a criação de pacotes de processamento de imagens em Python &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil">
-Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/construcao_oficina">
-Construindo um Esquema Conceitual para Banco De dados &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao">Construindo seu Primeiro Projeto Lógico de Banco de Dados &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/construcao_oficina">Construa um Projeto Lógico de Banco de Dados do Zero  &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB">
-Boas práticas com DynamoDB &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Explorando_Dados_Demograficos-BigData-AWS">
-Explorando Dados Demográficos com Serviços de Big Data na AWS &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Treinamento_Transfer_Learning_em_Python">
-Treinamento de Redes Neurais com Transfer Learning  &#x2757;</a></li>
-</ul>
+[![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados)
 
-<h2><strong>Desafios de Codigo:  </strong><progress value="100" max="100"></progress> 100%</h2>
-<ul>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-duas_torres">Desafios Iniciais Py- 1/3 - As Duas Torres &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Cachorros-Quentes">Desafios Iniciais Py- 2/3 - Cachorros-Quentes &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Calculo_de_viagem">Desafios Iniciais Py- 3/3 - Cálculo de viagem &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Alfabeto">Desafios Intermediários Py - 1/3 - Alfabeto &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Aumento_Salarial">Desafios Intermediários Py - 2/3 - Papagaio Poliglota &#x2705;</a></li>
-  <li><a href="https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermedi%C3%A1rios_py-Aumento_Salarial">Desafios Intermediários Py - 3/3 - Aumento Salarial
- &#x2705;</a></li>
-</ul><br>
+</div>
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="95" max="100"></progress> 95%</h2>
-<ul>
-  <li>Prepare-se Para a Jornada (Onboarding)</a></li>
-    <ul><em>Atividades: 8/8</em> <progress value="100" max="100"></progress> 100%</ul><br>
-  <li>Python para Cientistas de Dados</a></li>
-    <ul><em>Atividades: 21/21</em> <progress value="100" max="100"></progress> 100%</ul><br>
-  <li>Bancos de Dados SQL e NoSQL </a></li>
-    <ul><em>Atividades: 17/17</em>  <progress value="100" max="100"></progress> 100%</ul><br>
-  <li>Imersão Cloud Computer </a></li>
-    <ul><em>Atividades: 6/6</em> <progress value="100" max="100"></progress> 100%</ul><br>
-  <li>Machine Learning </a></li>
-    <ul><em>Atividades: 5/5</em> <progress value="100" max="100"></progress> 100%</ul><br>
-</ul><br>
+## 📋 Sobre
 
+Repositório dedicado aos desafios do **[Bootcamp DIO Unimed-BH Ciência de Dados](https://www.dio.me/)**. Este programa foi desenvolvido para profissionais que atuam ou desejam ingressar na área de ciência de dados.
 
+### O Bootcamp
 
-<h2 align="left"><strong>Autor</strong></h2>
+O bootcamp Unimed-BH Ciência de Dados é uma jornada educacional completa que abrange:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/otavioaugust1">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45877609?s=96&v=4" width="200px;" alt=""/><br/><sub><b>Otavio Augusto</b></sub></a> <br/>
-      <a href="https://github.com/otavioaugust1" title="Otavio Augusto"></a>
-    </td>
-    <td>
-        Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário Estácio Brasília (2022). Graduado em Administração pela Organização    Guaratinguetá de Ensino (2007). Pós-graduado em Sistema de Apoio ao Processo Seletivo: Regulação em Saúde no SUS - REG pelo Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, IEP/HSL (2017), Pós-graduado em Micropolítica da Gestão e Trabalho em Saúde pela Universidade Federal Fluminense, UFF (2018) e atuando há 14 anos na área de gestão a saúde sendo 12 anos na Regulação, Faturamento, Planejamento, Controle e Avaliação em Saúde, atua como Consultor Técnico no Departamento de Regulação Avaliação e Controle - DRAC/SAS/MS
-    </td>
-  </tr>    
-</table>
+- **Python para Cientistas de Dados** - Fundamentos e aplicações práticas
+- **Bancos de Dados** - SQL e NoSQL
+- **Computação em Nuvem** - Imersão Cloud
+- **Machine Learning** - Algoritmos e aplicações reais
+
+Após a conclusão, há oportunidades de recrutamento pela Unimed-BH para integrar seus times de tecnologia.
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+DIO_Unimed-BH_CienciaDeDados/
+│
+├── Desafio/
+│   ├── Analise_Python_Pandas/          # Análise de dados com Pandas
+│   │   ├── df_vendas_novo.csv
+│   │   ├── Estrutura de dados.ipynb
+│   │   └── Datasets/
+│   │       └── gapminder.csv
+│   │
+│   ├── Desafio_de_Codigo/               # Desafios de programação
+│   │   ├── Inicial_py-Cachorros-Quentes/
+│   │   ├── Inicial_py-Calculo_de_viagem/
+│   │   ├── Inicial_py-duas_torres/
+│   │   ├── Intermediários_py-Alfabeto/
+│   │   ├── Intermediários_py-Aumento_Salarial/
+│   │   └── Intermediários_py-Papagaio/
+│   │
+│   └── Evolucao_do_COVID19_Brasil/     # Projeto ML - Previsão COVID-19
+│       ├── covid_19_data.csv
+│       ├── ProjetoCovid_DIO_COLAB.ipynb
+│       └── ProjetoCovid_DIO_PY.py
+│
+├── img/                                  # Imagens do projeto
+└── README.md
+```
+
+---
+
+## 🎯 Desafios de Projeto
+
+| Projeto | Status | Link |
+|---------|--------|------|
+| Criando seu Primeiro Repositório no GitHub | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados) |
+| Análise de dados com Python e Pandas | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Analise_Python_Pandas) |
+| Descomplicando a criação de pacotes em Python | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Image_processing_package) |
+| Machine Learning - Previsão COVID-19 | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Evolucao_do_COVID19_Brasil) |
+| Projeto Conceitual de BD - E-COMMERCE | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE) |
+| Esquema Conceitual para Banco de Dados | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE/tree/main/construcao_oficina) |
+| Projeto Lógico de Banco de Dados | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Projeto_de_Banco_de_Dados_E-COMMERCE) |
+| Boas práticas com DynamoDB | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Boas_praticas_com_DynamoDB) |
+| Dados Demográficos com Big Data na AWS | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Explorando_Dados_Demograficos-BigData-AWS) |
+| Transfer Learning em Python | ⏳ | [Acesso](https://github.com/otavioaugust1/DIO_Treinamento_Transfer_Learning_em_Python) |
+
+---
+
+## 💻 Desafios de Código
+
+| Desafio | Nível | Status | Link |
+|---------|-------|--------|------|
+| As Duas Torres | Inicial | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-duas_torres) |
+| Cachorros-Quentes | Inicial | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Cachorros-Quentes) |
+| Cálculo de Viagem | Inicial | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Inicial_py-Calculo_de_viagem) |
+| Alfabeto | Intermediário | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermediários_py-Alfabeto) |
+| Papagaio Poliglota | Intermediário | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermediários_py-Papagaio) |
+| Aumento Salarial | Intermediário | ✅ | [Acesso](https://github.com/otavioaugust1/DIO_Unimed-BH_CienciaDeDados/tree/main/Desafio/Desafio_de_Codigo/Intermediários_py-Aumento_Salarial) |
+
+**Progresso:** 6/6 - 100% ✅
+
+---
+
+## 📚 Progresso do Bootcamp
+
+| Módulo | Atividades | Progresso |
+|--------|-----------|-----------|
+| Prepare-se Para a Jornada (Onboarding) | 8/8 | 100% ✅ |
+| Python para Cientistas de Dados | 21/21 | 100% ✅ |
+| Bancos de Dados SQL e NoSQL | 17/17 | 100% ✅ |
+| Imersão Cloud Computer | 6/6 | 100% ✅ |
+| Machine Learning | 5/5 | 100% ✅ |
+
+**Progresso Total:** 95% 📊
+
+---
+
+## 👨‍💻 Contribuidor
+
+- **Nome:** Otavio Augusto
+- **Email:** otavioaugust@gmail.com
+- **GitHub:** [@otavioaugust1](https://github.com/otavioaugust1)
+- **Versão:** 0.2.1
+
+---
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+Você é livre para usar, modificar e distribuir este código, desde que mantenha a atribuição e a licença.
